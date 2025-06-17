@@ -1,2 +1,74 @@
 # LUFT_Recordings
 Recordings For LUFT of Radio Spectrums (New Instrument) Dr. Cline invention  
+# LUFT Field Audio Recordings
+
+This repository contains short, well-documented audio recordings (.wav) and session logs from the LUFT Helix Reflector Mark I antenna and related experiments. The focus is on natural radio events (lightning, sferics, atmospheric, and celestial signals), captured and documented for scientific study and collaboration.
+
+---
+
+## 📡 Equipment and Setup
+
+- **Antenna:** LUFT Helix Reflector Mark I (see main LUFT repo for build details)
+- **Receiver:** ATS-25 Max, other SDRs as acquired
+- **Audio Interface:** Toshiba Satellite I3 laptop soundcard (MME, 16-bit, 48 kHz SR)
+- **Software:**
+  - HDSDR v2.81 (main SDR/audio capture and spectrum analysis)
+  - Audacity (for audio viewing and editing)
+  - Multi-Spectrum Lab (MSLab) and other analysis tools
+- **Recording Modes:** Typically USB or AM, with spectrum windows and waveforms saved
+
+---
+
+## 🗂️ File Organization
+
+- All recordings are in this `LUFT recordings'folder or subfolders by date/session
+- Filenames indicate date, frequency, and event type, e.g.:
+  - `2025-06-16_StormLightning_7468kHz.wav`
+  - `2025-06-17_NightScan_4hr.wav`
+  - `2025-06-17_SfericsSweep_333kHz.wav`
+- Each recording has a matching `.md` or `.txt` log with notes on setup, conditions, and key events
+
+---
+
+## 📝 Log 
+
+```
+# 2025-06-16 Storm Lightning Session
+- Time: 11:55 PM CST
+- Frequency: 7,468 kHz (USB)
+- Equipment: LUFT Helix, ATS-25 Max, HDSDR v2.81
+- Notes: Several strong sferics, band scan, heard distant voices (suspected 30m band from China), lightning times logged.
+```
+
+---
+
+## 🔬 Analysis & Use
+
+- **Spectral Analysis:** Use HDSDR, Audacity, Python (FFT), or Multi-Spectrum Lab
+- **Research Focus:** Lightning sferics, HF propagation, atmospheric/celestial signals
+- **Collaboration:** Data is public—collaborators may analyze and publish findings with attribution
+
+---
+
+## 📤 Large Files
+
+- Most files are <100 MB for GitHub compatibility
+- Long sessions or full datasets may be hosted on [Kaggle](https://www.kaggle.com/), [Zenodo](https://zenodo.org/), or other platforms (see links/files as available)
+
+---
+
+## 📷 Antenna Photos
+
+If you would like to see the antenna setup, refer to the gallery in the main LUFT project (or request photos via GitHub Issues). great pictures indeed 
+
+---
+
+## 📚 More Info
+
+- [LUFT Main Project/Build Log](https://github.com/carldeanclinesr/LUFT_Main)
+- [Kaggle LUFT Dataset](https://www.kaggle.com/carldeanclinesr/luft)
+- For help or collaboration, open an issue or contact [@CarlDeanClineSr](https://github.com/CarlDeanClineSr)
+
+---
+
+*This repository is part of ongoing research into natural radio, energy, and fundamental dynamics of space, time, and matter.*  Thank you Dr. Cline June 17th 2025 
