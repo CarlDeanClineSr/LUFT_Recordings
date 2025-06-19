@@ -3,8 +3,7 @@ Recordings For LUFT of Radio Spectrums (New Instrument) Dr. Cline invention
 # LUFT Field Audio Recordings
 
 This repository contains short, well-documented audio recordings (.wav) and session logs from the LUFT Helix Reflector Mark I antenna and related experiments. The focus is on natural radio events (lightning, sferics, atmospheric, and celestial signals), captured and documented for scientific study and collaboration.
-
----
+https://x.com/CarlClineSr/status/1935690609081151500 notebook 
 
 ## 📡 Equipment and Setup
 
@@ -52,7 +51,7 @@ This repository contains short, well-documented audio recordings (.wav) and sess
 
 ## 📤 Large Files
 
-- Most files are <100 MB for GitHub compatibility
+- Most files are <100 MB for GitHub compatibility   
 - Long sessions or full datasets may be hosted on [Kaggle](https://www.kaggle.com/), [Zenodo](https://zenodo.org/), or other platforms (see links/files as available)
 
 ---
@@ -66,8 +65,12 @@ If you would like to see the antenna setup, refer to the gallery in the main LUF
 ## 📚 More Info
 
 - [LUFT Main Project/Build Log](https://github.com/carldeanclinesr/LUFT_Main)
-- [Kaggle LUFT Dataset](https://www.kaggle.com/carldeanclinesr/luft)
+- [Kaggle LUFT Dataset](https://www.kaggle.com/datasets/carldeanclinesr/dr-cline-recordings-helix-mark-1-ins) 
 - For help or collaboration, open an issue or contact [@CarlDeanClineSr](https://github.com/CarlDeanClineSr)
+(https://x.com/CarlClineSr/status/1935690609081151500) ![GtbkmCtWwAAZuK_](https://github.com/user-attachments/assets/720a5c05-19fb-4741-8fdd-30f58d04f4d6)
+![GtbkmESWcAAyKuk](https://github.com/user-attachments/assets/0999bb8f-1c8a-4bdd-98c0-1a1edd9f7129)
+![Gtbkm04XcAEJdD7](https://github.com/user-attachments/assets/62cbcac2-27cc-4dd9-9823-ceb2cabc1262)
+![Gtbkm0_WIAEKSI6](https://github.com/user-attachments/assets/e581ba9a-1895-43b4-8f57-2674e361f535)  
 
 ---
 
