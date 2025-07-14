@@ -8,8 +8,9 @@ https://x.com/CarlClineSr/status/1935690609081151500 notebook
 ## 📡 Equipment and Setup
 
 - **Antenna:** LUFT Helix Reflector Mark I (see main LUFT repo for build details)
-- **Receiver:** ATS-25 Max, other SDRs as acquired
-- **Audio Interface:** Toshiba Satellite I3 laptop soundcard (MME, 16-bit, 48 kHz SR)
+- **Receiver:** July 14th 2025 update: NESDR SMArt v5 and Wideband LNA 50MHz-4GHz SPF5189z
+-  RTL-SDR BLOG A Balun One Nine nooelec and connectors for dish.
+ ---
 - **Software:**
   - HDSDR v2.81 (main SDR/audio capture and spectrum analysis)
   - Audacity (for audio viewing and editing)
@@ -32,7 +33,7 @@ https://x.com/CarlClineSr/status/1935690609081151500 notebook
 ## 📝 Log 
 
 ```
-# 2025-06-16 Storm Lightning Session
+# 2025-06-16 Storm Lightning Session's and updates as they happen
 - Time: 11:55 PM CST
 - Frequency: 7,468 kHz (USB)
 - Equipment: LUFT Helix, ATS-25 Max, HDSDR v2.81
